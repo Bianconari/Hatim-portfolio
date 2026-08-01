@@ -1,5 +1,4 @@
 # Hatim Mohammed — IT Support | Networking | Cybersecurity Portfolio
-https://bianconari.github.io/Hatim-portfolio/index.html
 A 3-page static portfolio website, ready to deploy on **GitHub Pages**.
 
 ## Pages
